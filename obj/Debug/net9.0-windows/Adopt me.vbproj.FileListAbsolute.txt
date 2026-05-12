@@ -1,0 +1,20 @@
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\bin\Debug\net9.0-windows\Adopt me.exe
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\bin\Debug\net9.0-windows\Adopt me.deps.json
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\bin\Debug\net9.0-windows\Adopt me.runtimeconfig.json
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\bin\Debug\net9.0-windows\Adopt me.dll
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\bin\Debug\net9.0-windows\Adopt me.pdb
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\MainWindow.g.vb
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Application.g.vb
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me_MarkupCompile.cache
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me_MarkupCompile.lref
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.g.resources
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.AssemblyInfoInputs.cache
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.AssemblyInfo.vb
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.vbproj.CoreCompileInputs.cache
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.dll
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\refint\Adopt me.dll
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.pdb
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\Adopt me.genruntimeconfig.cache
+C:\Users\3Tp\Desktop\wercia i daria prace\Adopt me\obj\Debug\net9.0-windows\ref\Adopt me.dll
